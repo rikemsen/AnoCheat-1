@@ -4,7 +4,7 @@ entre différents états afin de typer le message à afficher.
 
 Vous pouvez utiliser du code HTML au sein de ce message.
 
-# AC_lodAdd
+# AC_logAdd
 Ajouter une entrée dans le log est assez rapide, il vous suffit de déterminer quel type de message envoyer et le contenu du message.
 
 **Paramètres :**
